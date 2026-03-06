@@ -19,13 +19,11 @@ The analysis includes:
 
 ## Key Insights
 • U.S. unemployment rose sharply during the Great Recession, peaking around 2009–2010.
-
 • The labor market experienced steady recovery throughout the 2010s, with unemployment falling to historically low levels by 2019.
-
 • The COVID-19 pandemic caused a dramatic spike in unemployment in 2020, followed by a rapid recovery in subsequent years.
 
 ## Conclusion
-(To be filled after completing the analysis)
+The analysis of U.S. unemployment data from 2000–2024 reveals how the labor market responds to major economic shocks. Unemployment rose sharply during the Great Recession and again during the COVID-19 pandemic, followed by periods of gradual recovery. Overall, the data demonstrates the cyclical nature of the labor market and highlights how external economic events significantly influence employment conditions.
 
 ## Labor Market Trend Visualization
 
