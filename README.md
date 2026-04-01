@@ -52,6 +52,14 @@ Overall, businesses that are aware of labor market trends are better positioned 
 
 The chart highlights cyclical patterns in U.S. unemployment, with sharp increases during economic downturns (2008 financial crisis, COVID-19) and gradual declines during recovery periods. For businesses, these trends directly impact operational strategy. Rising unemployment typically signals weaker demand but provides easier hiring conditions and lower wage pressure. In contrast, low unemployment reflects stronger economic activity but creates tighter labor markets, increasing hiring difficulty and labor costs. Understanding these patterns allows businesses to proactively adjust hiring plans, pricing strategies, and cost structures based on expected economic conditions.
 
+## Year-over-Year Change in Unemployment Visualization
+
+![Unemployment Change](your-image-file-name.png)
+
+### Interpretation
+
+This chart highlights the volatility of the labor market by showing year-over-year changes in unemployment. Sharp increases, such as during the 2008 financial crisis and COVID-19 pandemic, indicate sudden economic shocks, while negative changes reflect recovery periods. For businesses, this volatility is critical. Rapid increases in unemployment signal declining demand and economic instability, requiring cost control and cautious planning. Conversely, sharp decreases in unemployment suggest tightening labor markets, increasing hiring difficulty and wage pressure.Monitoring these changes allows businesses to anticipate economic turning points and adjust hiring, pricing, and expansion strategies before conditions fully shift.
+
 ### Practical Business Application
 
 Based on this analysis, a business owner could:
