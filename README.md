@@ -15,7 +15,7 @@ Key variables analyzed:
 - Wage growth
 - Employment levels
 
-## Analysis Methods
+## Methodology
 The analysis includes:
 - Data cleaning in Excel
 - Trend analysis
