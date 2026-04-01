@@ -44,9 +44,15 @@ The trends in the labor market have direct implications for business operations,
 
 Overall, businesses that are aware of labor market trends are better positioned to adapt their hiring strategies and maintain profitability under changing economic conditions.  
 
-## Conclusion
-The analysis of U.S. unemployment data from 2000–2024 reveals how the labor market responds to major economic shocks. Unemployment rose sharply during the Great Recession and again during the COVID-19 pandemic, followed by periods of gradual recovery. Overall, the data demonstrates the cyclical nature of the labor market and highlights how external economic events significantly influence employment conditions.
-
 ## Labor Market Trend Visualization
 
 ![U.S. Unemployment Rate](unemployment-trend-chart.png)
+
+### Interpretation
+
+The chart shows the overall trend in U.S. unemployment over time, highlighting major economic cycles. Unemployment rises sharply during economic downturns, such as the 2008 financial crisis and the COVID-19 pandemic, and gradually declines during periods of recovery. For businesses, this trend provides important context for long-term planning. Periods of rising unemployment may signal weaker demand but easier hiring conditions, while declining unemployment reflects stronger economic activity alongside increased competition for labor. Understanding these patterns helps businesses anticipate changes in labor availability and adjust hiring, pricing, and cost strategies accordingly.
+
+## Conclusion
+The analysis of U.S. unemployment data from 2000–2024 reveals how the labor market responds to major economic shocks. Unemployment rose sharply during the Great Recession and again during the COVID-19 pandemic, followed by periods of gradual recovery. Overall, the data demonstrates the cyclical nature of the labor market and highlights how external economic events significantly influence employment conditions.
+
+
