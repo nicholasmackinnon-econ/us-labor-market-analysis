@@ -54,7 +54,7 @@ The chart highlights cyclical patterns in U.S. unemployment, with sharp increase
 
 ## Year-over-Year Change in Unemployment Visualization
 
-![Unemployment Change](US Unemployment Change.PNG)
+![Unemployment Change](US%20Unemployment%20Change.PNG)
 
 ### Interpretation
 
