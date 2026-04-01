@@ -1,5 +1,9 @@
 # US Labor Market Analysis
 
+## Key Takeaway
+
+Labor market conditions directly impact business performance—tight labor markets increase hiring difficulty and wage costs, while higher unemployment can ease hiring but signal weaker demand. Businesses that understand these trends can better manage hiring, pricing, and overall profitability.
+
 ## Objective
 This project analyzes U.S. labor market trends using data from the Bureau of Labor Statistics (BLS) to understand how changes in unemployment affect the broader economy and business conditions. The goal is to identify major labor market shifts over time and explain their implications for hiring conditions, wage pressure, and employer decision-making.
 
