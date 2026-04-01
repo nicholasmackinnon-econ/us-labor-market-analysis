@@ -1,7 +1,7 @@
 # US Labor Market Analysis
 
 ## Objective
-This project analyzes trends in the United States labor market using data from the Bureau of Labor Statistics (BLS). The goal is to identify patterns in unemployment, wage growth, and employment trends over time.
+This project analyzes U.S. labor market trends using data from the Bureau of Labor Statistics (BLS) to understand how changes in unemployment affect the broader economy and business conditions. The goal is to identify major labor market shifts over time and explain their implications for hiring conditions, wage pressure, and employer decision-making.
 
 ## Dataset
 Data source: U.S. Bureau of Labor Statistics (BLS)
