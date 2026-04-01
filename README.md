@@ -68,8 +68,9 @@ Based on this analysis, a business owner could:
 - Adjust pricing upward during strong economic periods when demand is higher  
 - Delay expansion during economic downturns to reduce risk  
 - Monitor labor market trends to anticipate wage increases and staffing challenges  
+- Track rapid changes in unemployment to identify economic turning points early and adjust strategy before conditions fully shift  
 
-This demonstrates how macroeconomic data can be used to improve real-world business decision-making.
+This demonstrates how both long-term trends and short-term economic changes can be used to improve real-world business decision-making.
 
 ## Conclusion
 The analysis of U.S. unemployment data from 2000–2024 reveals how the labor market responds to major economic shocks. Unemployment rose sharply during the Great Recession and again during the COVID-19 pandemic, followed by periods of gradual recovery. Overall, the data demonstrates the cyclical nature of the labor market and highlights how external economic events significantly influence employment conditions.
